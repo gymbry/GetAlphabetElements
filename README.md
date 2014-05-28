@@ -1,4 +1,5 @@
 GetAlphabetElements
 ===================
 
-Gets elements from the alphabet
+JavaScript alphabet element getter. 
+getAlphabet
